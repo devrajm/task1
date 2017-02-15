@@ -1,3 +1,6 @@
 hello
 editng the file
 adding this line in branch2
+hello
+editng the file
+adding this line in branch2
